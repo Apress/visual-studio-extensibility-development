@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PropertiesToolWindow.PropertiesToolWindowPackage" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAACACAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>PropertiesToolWindowPackage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PropertiesToolWindow.PackageGuids" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAgABAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>PropertiesToolWindowPackage1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PropertiesToolWindow.PackageIds">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PropertiesToolWindowPackage1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PropertiesToolWindow.ToolWindow" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ToolWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PropertiesToolWindow.ConfigurationChangedInfoBar" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>ToolWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PropertiesToolWindow.ToolWindowCommand">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAABQAAAAAAAAAAAIAIAAAQQAAAAAAAAA=</HashCode>
+      <FileName>ToolWindowCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PropertiesToolWindow.ToolWindowControl" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ToolWindowControl.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PropertiesToolWindow.ToolWindowData" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAIAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ToolWindowData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

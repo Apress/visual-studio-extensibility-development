@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Interface Name="Microsoft.VisualStudio.Text.IEditTag" Collapsed="true">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="Microsoft.VisualStudio.Text.IInviolableEditTag" Collapsed="true">
+    <Position X="11" Y="3" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="Microsoft.VisualStudio.Text.IInvisibleEditTag" Collapsed="true">
+    <Position X="13.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="Microsoft.VisualStudio.Text.IUndoEditTag" Collapsed="true">
+    <Position X="8.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="Microsoft.VisualStudio.Text.IFormattingEditTag" Collapsed="true">
+    <Position X="9" Y="3.75" Width="2.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="Microsoft.VisualStudio.Text.IRemoteEditTag" Collapsed="true">
+    <Position X="11.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="Microsoft.VisualStudio.Text.IUserEditTag" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="Microsoft.VisualStudio.Text.IFormattingNeededEditTag" Collapsed="true">
+    <Position X="9" Y="2" Width="2.25" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="Microsoft.VisualStudio.Text.ITypingEditTag" Collapsed="true">
+    <Position X="7" Y="4" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="Microsoft.VisualStudio.Text.IDeleteEditTag" Collapsed="true">
+    <Position X="7" Y="2.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="Microsoft.VisualStudio.Text.IReadOnlyRegionEdit" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.75" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="Microsoft.VisualStudio.Text.ITextBuffer">
+    <Position X="11.75" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="Microsoft.VisualStudio.Text.ITextBuffer2">
+    <Position X="7" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="Microsoft.VisualStudio.Text.ITextBufferEdit" Collapsed="true">
+    <Position X="1.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="Microsoft.VisualStudio.Text.ITextBufferFactoryService" Collapsed="true">
+    <Position X="4.5" Y="4.5" Width="2" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="Microsoft.VisualStudio.Text.ITextBufferFactoryService3" Collapsed="true">
+    <Position X="4.25" Y="5.5" Width="2.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="Microsoft.VisualStudio.Text.ITextChange" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="Microsoft.VisualStudio.Text.ITextChange2" Collapsed="true">
+    <Position X="1.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="Microsoft.VisualStudio.Text.ITextChange3" Collapsed="true">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="Microsoft.VisualStudio.Text.ITextEdit" Collapsed="true">
+    <Position X="2.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="Microsoft.VisualStudio.Text.ITextSnapshot" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="Microsoft.VisualStudio.Text.ITextSnapshot2" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="Microsoft.VisualStudio.Text.ITextVersion" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="Microsoft.VisualStudio.Text.ITextVersion2" Collapsed="true">
+    <Position X="3.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

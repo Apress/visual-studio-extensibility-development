@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access">
+  <Class Name="Microsoft.CodeAnalysis.Diagnostics.DiagnosticAnalyzer">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="ConfigureAwaitAnalyzer.ConfigureAwaitAnalyzerAnalyzer">
+    <Position X="3.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAgAUAgAAAAAAAAAAAAgAAAAAQAAAAACAA=</HashCode>
+      <FileName>ConfigureAwaitAnalyzerAnalyzer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.CodeAnalysis.Diagnostics.DiagnosticAnalyzerAttribute">
+    <Position X="6.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Microsoft.CodeAnalysis.Diagnostic">
+    <Position X="3.75" Y="4" Width="2" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Microsoft.CodeAnalysis.DiagnosticDescriptor">
+    <Position X="0.5" Y="3" Width="2.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Microsoft.CodeAnalysis.DiagnosticSeverity">
+    <Position X="0.5" Y="6.75" Width="1.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Microsoft.CodeAnalysis.LocalizableResourceString">
+    <Position X="10.25" Y="0.5" Width="3" />
+    <InheritanceLine Type="Microsoft.CodeAnalysis.LocalizableString" ManuallyRouted="true">
+      <Path>
+        <Point X="11.75" Y="3.5" />
+        <Point X="11.75" Y="3.231" />
+        <Point X="11.75" Y="3.231" />
+        <Point X="11.75" Y="2.569" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Microsoft.CodeAnalysis.LocalizableString">
+    <Position X="10.75" Y="3.5" Width="2" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Microsoft.CodeAnalysis.Diagnostics.AnalysisContext">
+    <Position X="6.25" Y="2.5" Width="3.75" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

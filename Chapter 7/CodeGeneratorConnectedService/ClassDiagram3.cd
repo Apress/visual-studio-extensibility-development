@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Microsoft.VisualStudio.Text.Differencing.Difference" Collapsed="true">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Microsoft.VisualStudio.Text.Differencing.Match" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9" Y="2.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Microsoft.VisualStudio.Text.Differencing.BaseLeftBufferChangedEventArgs" Collapsed="true">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Microsoft.VisualStudio.Text.Differencing.DifferenceBufferOptions" Collapsed="true">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Microsoft.VisualStudio.Text.Differencing.DifferenceBufferOption&lt;T&gt;" Collapsed="true">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Microsoft.VisualStudio.Text.Differencing.DifferenceBufferProperties" Collapsed="true">
+    <Position X="9" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Microsoft.VisualStudio.Text.Differencing.SnapshotDifferenceChangeEventArgs" Collapsed="true">
+    <Position X="10.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Microsoft.VisualStudio.Text.Differencing.DifferenceViewerOptions" Collapsed="true">
+    <Position X="12.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Microsoft.VisualStudio.Text.Differencing.DifferenceViewerOption&lt;T&gt;" Collapsed="true">
+    <Position X="10.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Microsoft.VisualStudio.Text.Differencing.DifferenceViewerRoles" Collapsed="true">
+    <Position X="14.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Struct Name="Microsoft.VisualStudio.Text.Differencing.StringDifferenceOptions" Collapsed="true">
+    <Position X="9" Y="3.75" Width="1.5" />
+    <TypeIdentifier />
+  </Struct>
+  <Interface Name="Microsoft.VisualStudio.Text.Differencing.IHierarchicalStringDifferenceService" Collapsed="true">
+    <Position X="14.25" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="Microsoft.VisualStudio.Text.Differencing.IDifferenceCollection&lt;T&gt;" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="Microsoft.VisualStudio.Text.Differencing.IDifferenceService" Collapsed="true">
+    <Position X="9" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="Microsoft.VisualStudio.Text.Differencing.IHierarchicalDifferenceCollection" Collapsed="true">
+    <Position X="6.5" Y="2" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="Microsoft.VisualStudio.Text.Differencing.ITextDifferencingSelectorService" Collapsed="true">
+    <Position X="10.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="Microsoft.VisualStudio.Text.Differencing.ITextDifferencingService" Collapsed="true">
+    <Position X="12.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="Microsoft.VisualStudio.Text.Differencing.ITokenizedStringList" Collapsed="true">
+    <Position X="14.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="Microsoft.VisualStudio.Text.Differencing.IDifferenceTrackingSpanCollection" Collapsed="true">
+    <Position X="12.5" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="Microsoft.VisualStudio.Text.Differencing.IDifferenceBuffer" Collapsed="true">
+    <Position X="3.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="Microsoft.VisualStudio.Text.Differencing.IDifferenceBuffer2" Collapsed="true">
+    <Position X="3.5" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="Microsoft.VisualStudio.Text.Differencing.IDifferenceBufferFactoryService" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="Microsoft.VisualStudio.Text.Differencing.IDifferenceBufferFactoryService2" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="Microsoft.VisualStudio.Text.Differencing.ISnapshotDifference" Collapsed="true">
+    <Position X="9" Y="5.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="Microsoft.VisualStudio.Text.Differencing.IDifferenceViewer" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="Microsoft.VisualStudio.Text.Differencing.IDifferenceViewer2" Collapsed="true">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="Microsoft.VisualStudio.Text.Differencing.IDifferenceTextViewModel" Collapsed="true">
+    <Position X="10.75" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="Microsoft.VisualStudio.Text.Differencing.IWpfDifferenceViewer" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="Microsoft.VisualStudio.Text.Differencing.IWpfDifferenceViewerFactoryService" Collapsed="true">
+    <Position X="9" Y="6.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Enum Name="Microsoft.VisualStudio.Text.Differencing.DifferenceType" Collapsed="true">
+    <Position X="9" Y="8.25" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="Microsoft.VisualStudio.Text.Differencing.StringDifferenceTypes" Collapsed="true">
+    <Position X="10.75" Y="9" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="Microsoft.VisualStudio.Text.Differencing.WordSplitBehavior" Collapsed="true">
+    <Position X="12.5" Y="9" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="Microsoft.VisualStudio.Text.Differencing.DifferenceMappingMode" Collapsed="true">
+    <Position X="14.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="Microsoft.VisualStudio.Text.Differencing.IgnoreWhiteSpaceBehavior" Collapsed="true">
+    <Position X="14.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="Microsoft.VisualStudio.Text.Differencing.LineType" Collapsed="true">
+    <Position X="9" Y="9" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="Microsoft.VisualStudio.Text.Differencing.DifferenceHighlightMode" Collapsed="true">
+    <Position X="9" Y="7.5" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="Microsoft.VisualStudio.Text.Differencing.DifferenceHighlightMode2" Collapsed="true">
+    <Position X="10.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="Microsoft.VisualStudio.Text.Differencing.DifferenceHighlightMode3" Collapsed="true">
+    <Position X="12.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="Microsoft.VisualStudio.Text.Differencing.DifferenceViewMode" Collapsed="true">
+    <Position X="10.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="Microsoft.VisualStudio.Text.Differencing.DifferenceViewType" Collapsed="true">
+    <Position X="12.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Delegate Name="Microsoft.VisualStudio.Text.Differencing.ContinueProcessingPredicate&lt;T&gt;" Collapsed="true">
+    <Position X="9" Y="10" Width="1.5" />
+    <TypeIdentifier />
+  </Delegate>
+  <Delegate Name="Microsoft.VisualStudio.Text.Differencing.DetermineLocalityCallback" Collapsed="true">
+    <Position X="12.5" Y="10" Width="1.5" />
+    <TypeIdentifier />
+  </Delegate>
+  <Delegate Name="Microsoft.VisualStudio.Text.Differencing.IgnoreDifferencePredicate" Collapsed="true">
+    <Position X="14.25" Y="10" Width="1.5" />
+    <TypeIdentifier />
+  </Delegate>
+  <Delegate Name="Microsoft.VisualStudio.Text.Differencing.SnapshotLineTransform" Collapsed="true">
+    <Position X="9" Y="10.75" Width="1.5" />
+    <TypeIdentifier />
+  </Delegate>
+  <Delegate Name="Microsoft.VisualStudio.Text.Differencing.CreateTextViewHostCallback" Collapsed="true">
+    <Position X="10.75" Y="10" Width="1.5" />
+    <TypeIdentifier />
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

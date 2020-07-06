@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
+    <Metadata>
+        <Identity Id="ExtensionGallery.113a86a6-f80c-4d06-99ec-a0c95ccc9145" Version="1.1" Language="en-US" Publisher="Rishabh Verma" />
+        <DisplayName>Extension Gallery</DisplayName>
+        <Description xml:space="preserve">An extension to add private gallery feed to the Visual Studio with the name Rishabh Gallery</Description>
+        <Icon>images\VisualStudio.png</Icon>
+        <PreviewImage>images\VisualStudio.png</PreviewImage>
+        <Tags>Extension gallery, private gallery</Tags>
+    </Metadata>
+    <Installation>
+        <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[16.0, 17.0)" />
+    </Installation>
+    <Dependencies>
+        <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" d:Source="Manual" Version="[4.5,)" />
+    </Dependencies>
+    <Assets>
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="extensiongallery.pkgdef" />
+    </Assets>
+    <Prerequisites>
+        <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[16.0,17.0)" DisplayName="Visual Studio core editor" />
+    </Prerequisites>
+</PackageManifest>

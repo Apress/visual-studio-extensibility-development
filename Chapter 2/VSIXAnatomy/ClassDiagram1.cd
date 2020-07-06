@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EnvDTE.DTEClass">
+    <Position X="0.5" Y="0.5" Width="4.25" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="EnvDTE.Document">
+    <Position X="7.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="EnvDTE.TextSelection">
+    <Position X="9.25" Y="0.75" Width="2" />
+    <Members>
+      <Method Name="Backspace" Hidden="true" />
+      <Method Name="Cancel" Hidden="true" />
+      <Method Name="ChangeCase" Hidden="true" />
+      <Method Name="CharLeft" Hidden="true" />
+      <Method Name="CharRight" Hidden="true" />
+      <Method Name="ClearBookmark" Hidden="true" />
+      <Method Name="Collapse" Hidden="true" />
+      <Method Name="Copy" Hidden="true" />
+      <Method Name="Cut" Hidden="true" />
+      <Method Name="Delete" Hidden="true" />
+      <Method Name="DeleteLeft" Hidden="true" />
+      <Method Name="DeleteWhitespace" Hidden="true" />
+      <Method Name="DestructiveInsert" Hidden="true" />
+      <Method Name="EndOfDocument" Hidden="true" />
+      <Method Name="EndOfLine" Hidden="true" />
+      <Method Name="FindPattern" Hidden="true" />
+      <Method Name="FindText" Hidden="true" />
+      <Method Name="GotoLine" Hidden="true" />
+      <Method Name="Indent" Hidden="true" />
+      <Method Name="Insert" Hidden="true" />
+      <Method Name="InsertFromFile" Hidden="true" />
+      <Method Name="LineDown" Hidden="true" />
+      <Method Name="LineUp" Hidden="true" />
+      <Method Name="MoveTo" Hidden="true" />
+      <Method Name="MoveToAbsoluteOffset" Hidden="true" />
+      <Method Name="MoveToDisplayColumn" Hidden="true" />
+      <Method Name="MoveToLineAndOffset" Hidden="true" />
+      <Method Name="MoveToPoint" Hidden="true" />
+      <Method Name="NewLine" Hidden="true" />
+      <Method Name="NextBookmark" Hidden="true" />
+      <Method Name="OutlineSection" Hidden="true" />
+      <Method Name="PadToColumn" Hidden="true" />
+      <Method Name="PageDown" Hidden="true" />
+      <Method Name="PageUp" Hidden="true" />
+      <Method Name="Paste" Hidden="true" />
+      <Method Name="PreviousBookmark" Hidden="true" />
+      <Method Name="ReplacePattern" Hidden="true" />
+      <Method Name="ReplaceText" Hidden="true" />
+      <Method Name="SelectAll" Hidden="true" />
+      <Method Name="SelectLine" Hidden="true" />
+      <Method Name="SetBookmark" Hidden="true" />
+      <Method Name="SmartFormat" Hidden="true" />
+      <Method Name="StartOfDocument" Hidden="true" />
+      <Method Name="StartOfLine" Hidden="true" />
+      <Method Name="SwapAnchor" Hidden="true" />
+      <Method Name="Tabify" Hidden="true" />
+      <Method Name="Unindent" Hidden="true" />
+      <Method Name="Untabify" Hidden="true" />
+      <Method Name="WordLeft" Hidden="true" />
+      <Method Name="WordRight" Hidden="true" />
+    </Members>
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

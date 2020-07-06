@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Author>Rishabh Verma</Author>
+      <Description>The snippet to author async method with return type</Description>
+      <Keywords>
+        <Keyword>async</Keyword>
+        <Keyword>non-void return types</Keyword>
+      </Keywords>
+      <Shortcut>async</Shortcut>
+      <SnippetTypes>
+        <SnippetType>Expansion</SnippetType>
+      </SnippetTypes>
+      <Title>Async</Title>
+    </Header>
+    <Snippet>
+      <Declarations>
+        <Literal>
+          <ID>returnType</ID>
+          <Default>int</Default>
+          <ToolTip>The return type of the method.</ToolTip>
+        </Literal>
+        <Literal>
+          <ID>methodName</ID>
+          <Default>MyMethod</Default>
+          <ToolTip>The name of the method</ToolTip>
+        </Literal>
+      </Declarations>
+      <Imports>
+        <Import>
+          <Namespace><![CDATA[System.Threading.Tasks]]></Namespace>
+        </Import>
+      </Imports>
+      <Code Language="csharp">
+        <![CDATA[public async Task<$returnType$> $methodName$Async()
+        {
+             return await Task.FromResult(default($returnType$));   
+        }]]></Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>

@@ -1,0 +1,5 @@
+﻿[$RootKey$\ExtensionManager\Repositories\{415e1d4b-02b9-4b24-a546-fbac239898cf}]
+@="http://vsixgallery.com/feed/"
+"Priority"=dword:00000056
+"Protocol"="Atom Feed"
+"DisplayName"="Rishabh Gallery"

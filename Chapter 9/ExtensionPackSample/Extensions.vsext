@@ -1,0 +1,14 @@
+{
+  "description": "Rishabh's extension pack sample",
+  "version": "1.0.0.0",
+  "extensions": [
+    {
+      "vsixId": "FAQ.BOT.Client.Rishabh Verma.d7807595-0c3f-4584-9aad-2533238c94bf",
+      "name": "ASP.NETFaqBot"
+    },
+    {
+      "vsixId": "ExternalSearch.67873bfe-7c37-4a2e-8616-c3bf64959060",
+      "name": "ExternalSearch"
+    }
+  ]
+}

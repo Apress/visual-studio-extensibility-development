@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access">
+  <Class Name="Microsoft.CodeAnalysis.CodeFixes.CodeFixContext">
+    <Position X="3.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Microsoft.CodeAnalysis.CodeFixes.CodeFixProvider">
+    <Position X="6.5" Y="0.5" Width="2" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Microsoft.CodeAnalysis.CodeFixes.ExportCodeFixProviderAttribute">
+    <Position X="9" Y="0.5" Width="2.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Microsoft.CodeAnalysis.CodeFixes.FixAllContext">
+    <Position X="3.5" Y="2.75" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="Microsoft.CodeAnalysis.CodeFixes.FixAllContext.DiagnosticProvider" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Microsoft.CodeAnalysis.CodeFixes.FixAllProvider">
+    <Position X="6.5" Y="2.75" Width="2.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Microsoft.CodeAnalysis.CodeFixes.FixAllScope">
+    <Position X="6.5" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Microsoft.CodeAnalysis.CodeFixes.WellKnownFixAllProviders">
+    <Position X="9.25" Y="2.75" Width="2" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Microsoft.CodeAnalysis.CodeActions.CodeAction">
+    <Position X="9.25" Y="4.25" Width="2.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

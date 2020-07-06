@@ -1,0 +1,19 @@
+{
+  "$schema": "http://json.schemastore.org/vsix-publish",
+  "categories": [ "coding" ],
+  "identity": {
+    "internalName": "searchexternal"
+  },
+  "assetFiles": [
+    {
+      "pathOnDisk": "SearchMember.png",
+      "targetPath": "SearchMember.png"
+    }
+  ],
+  "overview": "readme.md",
+  "priceCategory": "free",
+  "publisher": "rishabhverma",
+  "private": false,
+  "qna": true,
+  "repo": "https://github.com/Rishabh-V/Visual-Studio-Extensibility-Development"
+}
